@@ -4,8 +4,8 @@
 
 ### My languages of interest include:
 
-HTML
-CSS
-JavaScript
-Python
-SQL
+#### HTML
+#### CSS
+#### JavaScript
+#### Python
+#### SQL
